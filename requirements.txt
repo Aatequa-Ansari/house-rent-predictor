@@ -1,17 +1,6 @@
-# Data Handling
-numpy
+streamlit==1.32.2
 pandas
-
-# Machine Learning
+numpy
 scikit-learn
-
-# Visualization
-matplotlib
-seaborn
-
-# Notebook Support
-ipykernel
-jupyter
-
-# Web App (Optional)
-streamlit
+joblib
+altair==4.2.2
